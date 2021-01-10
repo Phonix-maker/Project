@@ -1,0 +1,81 @@
+body{ 
+  position:relative;
+  background:gray;
+  font-size: 13px; 
+  color:#000;
+}
+a{ 
+  text-decoration:none; 
+  color: #ed0009;
+}
+
+/* --------Top bar--------- */
+#topbar
+{
+  background: #262323; 
+  top: 0px;
+  padding: 50px 0;
+  width:100%;
+  font-size:20px;
+}
+.header_slogan
+{
+  position:absolute;
+  color: #d6a00b;
+  top:10px;
+  text-align:center;
+  font-family:ALGERIAN;
+  left:35%
+}
+#header_magaz1
+{
+  position:absolute;
+  color: #d6a00b;
+  top:40px;
+  left:100px;
+  text-align:center;
+  font-family:ALGERIAN;
+}
+#header_magaz2
+{
+  position:absolute;
+  color: #d6a00b;
+  top:40px;
+  right:100px;
+  text-align:center;
+  font-family:ALGERIAN;
+}
+#tel
+{
+color:#d6a00b;
+}
+#tel:hover
+{
+background:#d6a00b;
+color:#0a0a0a;
+}
+#topmenubg
+{
+  background:red; 
+  width:100%;
+}
+#topmenu
+{
+  position:relative;
+  top:50px;
+  left:100px;
+  color:black;
+  margin-left:10px;
+  font-size:30px;
+}
+#topmenu:hover
+{
+ background:#d6a00b;
+}
+#hit
+{
+  position:relative;
+  top:80px;
+  left:70px;
+  margin-left:20px;
+}
